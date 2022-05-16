@@ -10,6 +10,7 @@ namespace EmployeeWage
             EmployeeClass employee = new EmployeeClass();
             employee.checkStatus();
             employee.dailyWage();
+            employee.addPartTimeWage();
         }
     }
 }
