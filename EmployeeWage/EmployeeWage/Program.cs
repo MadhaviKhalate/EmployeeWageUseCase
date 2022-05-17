@@ -11,6 +11,7 @@ namespace EmployeeWage
             employee.checkStatus();
             employee.dailyWage();
             employee.addPartTimeWage();
+            employee.EmpWageUsingSwitch();
         }
     }
 }
