@@ -10,7 +10,7 @@ namespace EmployeeWage
     {
         int IS_FULL_TIME = 1, IS_PART_TIME = 2,
             EMP_RATE_PER_HRS = 20, NUM_OF_WORKING_DAYS = 10, MAX_HRS_IN_MONTH = 40,
-            empHrs = 0, empWage=0, totalEmpWage = 0, totalEmpHrs = 0, totalWorkingDays = 0;
+            empHrs = 0, empWage = 0, totalEmpWage = 0, totalEmpHrs = 0, totalWorkingDays = 0;
         public void checkStatus()
         {
             Random rand = new Random();
